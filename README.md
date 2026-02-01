@@ -124,6 +124,15 @@ python desktop_app.py
 
   ---
 
+## 🌐 Web Deployment
+
+👉 **Live Web Application:**  
+https://ugec67.github.io/Chemical-Equipment-Parameter-Visualizer-
+
+> Note: The backend APIs are running locally for data processing and analytics.  
+> The deployed web version demonstrates the frontend functionality and UI flow.
+
+
 ## 🎥 Demo Video
 
 👉 **Demo Video Link:**  
