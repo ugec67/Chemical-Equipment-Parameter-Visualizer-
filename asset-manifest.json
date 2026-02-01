@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chemical-Equipment-Parameter-Visualizer-/static/css/main.e6c13ad2.css",
+    "main.js": "/Chemical-Equipment-Parameter-Visualizer-/static/js/main.3f1b5f71.js",
+    "static/js/453.9d77d8c1.chunk.js": "/Chemical-Equipment-Parameter-Visualizer-/static/js/453.9d77d8c1.chunk.js",
+    "index.html": "/Chemical-Equipment-Parameter-Visualizer-/index.html",
+    "main.e6c13ad2.css.map": "/Chemical-Equipment-Parameter-Visualizer-/static/css/main.e6c13ad2.css.map",
+    "main.3f1b5f71.js.map": "/Chemical-Equipment-Parameter-Visualizer-/static/js/main.3f1b5f71.js.map",
+    "453.9d77d8c1.chunk.js.map": "/Chemical-Equipment-Parameter-Visualizer-/static/js/453.9d77d8c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3f1b5f71.js"
+  ]
+}
